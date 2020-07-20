@@ -3,6 +3,7 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 
 ## Binary Classification
 - pima-indians-diabets.csv
+- online_shoppers_intention2.csv : Online shoppers purchasing intention dataset(Imbalanced) [[source]](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
 
 ## Multiclass Classification
 
