@@ -1,7 +1,8 @@
 # datasets
-This is a dataset repository for my .
+This is a dataset repository for my persaonal research and deveoping tutorials.
 
 ## Binary Classification
+- pima-indians-diabets.csv
 
 ## Multiclass Classification
 
