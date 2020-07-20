@@ -1,5 +1,5 @@
 # datasets
-This is a dataset repository for my personal studies.
+This is a dataset repository for my .
 
 ## Binary Classification
 
