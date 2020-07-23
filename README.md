@@ -6,6 +6,7 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 - online_shoppers_intention2.csv : Online shoppers purchasing intention dataset(Imbalanced) [[source]](https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset)
 
 ## Multiclass Classification
+- DGA : Transformer Dissolved Gas Analysis Dataset(IEC TC 10) [[Source]](https://github.com/piotrmirowski/DGA)
 
 ## Regression
 - Apartment_price.csv : Korean apartment presale trend(전국 신규 민간 아파트 분양 가격 동향, 2020/03)[[source]](https://www.data.go.kr/data/3035522/fileData.do)
