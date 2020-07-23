@@ -9,6 +9,7 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 
 ## Regression
 - Apartment_price.csv : Korean apartment presale trend(전국 신규 민간 아파트 분양 가격 동향, 2020/03)[[source]](https://www.data.go.kr/data/3035522/fileData.do)
+- regional_apartment_price.csv : regional apartment prices(지역별 3.3제곱미터당 분양가격(천원), 2015/09)[[source]](https://goo.gl/oJydAv)
 
 ## Univariate Time Series
 - airline_passengers.csv : Monthly thousands of passengers
