@@ -16,6 +16,7 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 - airline_passengers.csv : Monthly thousands of passengers
 - monthly-milk-production.csv
 - sales-of-shampoo.csv
+- Henry_Hub_Natural_Gas_Spot_Price.csv : Daily natural gas price [[source]](https://www.eia.gov/dnav/ng/hist/rngwhhdD.htm)
 
 ## Multivariate Time Series
 - GEFCom2014-E.csv : Hourly energy load [[source]](http://blog.drhongtao.com/2017/03/gefcom2014-load-forecasting-data.html)
