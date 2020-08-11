@@ -22,4 +22,5 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 - GEFCom2014-E.csv : Hourly energy load [[source]](http://blog.drhongtao.com/2017/03/gefcom2014-load-forecasting-data.html)
 - energy.csv : Hourly energy load (modified version of GEFCom2014-E.csv) [[source]](https://www.dropbox.com/s/kem812npa8qfnb5/energy.csv?dl=0)
 - apple_stock.csv
+- ge_stock.csv : Approximately 55 years of stock price data for GE for US [[source]](https://www.kaggle.com/darkknight91/ge-stock)
 - malaysia_all_data_for_paper.csv : Hourly load data of the city of Johor in Malaysia generated in 2009 and 2010 [[source]](https://data.mendeley.com/datasets/f4fcrh4tn9/1)
