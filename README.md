@@ -26,6 +26,8 @@ This is a dataset repository for my persaonal research and deveoping tutorials.
 - apple_stock.csv
 - ge_stock.csv : Approximately 55 years of stock price data for GE for US [[source]](https://www.kaggle.com/darkknight91/ge-stock)
 - malaysia_all_data_for_paper.csv : Hourly load data of the city of Johor in Malaysia generated in 2009 and 2010 [[source]](https://data.mendeley.com/datasets/f4fcrh4tn9/1)
+- bearing_sensor_data.csv : Averaged bearing sensor data[[source]](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/)  
+  - You can find raw dataset using above link. This dataset is averaged(10min) dataset for day2 test.
 
 ## Etc.
 
