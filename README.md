@@ -1,5 +1,5 @@
 # datasets
-This is a dataset repository for my persaonal research and deveoping tutorials.
+This is a dataset repository for our research.
 
 ## Binary Classification
 - pima-indians-diabets.csv
